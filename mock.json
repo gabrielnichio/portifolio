@@ -1,0 +1,53 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Shopping website",
+            "categorie": "React",
+            "abstract": "",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "name": "Basic Calculator",
+            "categorie": "HTML & CSS",
+            "abstract": "",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Basic Form authentication",
+            "categorie": "HTML & CSS",
+            "abstract": "",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "name": "To-do app",
+            "categorie": "React",
+            "abstract": "",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "name": "Investment register - Frontend",
+            "categorie": "React",
+            "abstract": "",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "name": "Investment register - Backend",
+            "categorie": "Node.js",
+            "abstract": "",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "name": "Music recomendation",
+            "categorie": "Python",
+            "abstract": "",
+            "description": ""
+        }
+    ]
+}
